@@ -1,0 +1,8 @@
+test:
+  - test
+  - abc
+
+hallo:
+  moin ich bin cool!
+
+moin: [jo, was, geht]
